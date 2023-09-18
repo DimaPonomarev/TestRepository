@@ -15,6 +15,6 @@ class ViewController: UIViewController {
         print("rightCommit")
         print("correct")
     }
-    mistake
+
 }
 

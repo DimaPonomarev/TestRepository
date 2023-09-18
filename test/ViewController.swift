@@ -15,6 +15,5 @@ class ViewController: UIViewController {
         print("rightCommit")
     }
 
-    print("here is mistake")
 }
 

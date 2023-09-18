@@ -19,5 +19,9 @@ class ViewController: UIViewController {
     func new() {
         print("new action to commit")
     }
+
+    func ofAnother() {
+        print("code another devvelopers")
+    }
 }
 

@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     }
     func new() {
         print("new action to commit")
+        print("i want to change commit")
     }
 
     func ofAnother() {

@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         print("others developers code")
         print("mistake")
     }
-
+    func new() {
+        print("new action to commit")
+    }
 }
 

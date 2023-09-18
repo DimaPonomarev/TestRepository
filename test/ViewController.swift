@@ -14,9 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("i make mistake")
         print("others developers code")
+        print("mistake")
     }
-    
-    mistake
 
 }
 
